@@ -2,7 +2,7 @@
 <img  alt="html5" width="1000" height="50" align="center" src="https://i.kym-cdn.com/entries/icons/original/000/049/004/lebronsunshinecover.jpg"/>
 
 
-<h1 align="center">wenas me llamo Angel Pinto</h1>
+<h1 align="center">wenas</h1>
 <h3 align="center">Alumno de duoc estudiante de ing. INformatica</h3>
 
 - 📄 Know about my experiences [none](none)
