@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-<img  alt="html5" width="100" height="50" align="center" src="https://i.kym-cdn.com/entries/icons/original/000/049/004/lebronsunshinecover.jpg"/>
+<img  alt="html5" width="1000" height="50" align="center" src="https://i.kym-cdn.com/entries/icons/original/000/049/004/lebronsunshinecover.jpg"/>
 
 
 <h1 align="center">wenas me llamo Angel Pinto</h1>
