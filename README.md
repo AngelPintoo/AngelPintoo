@@ -1,5 +1,5 @@
 <h1 align="center">wenas me llamo Angel Pinto</h1>
-<h3 align="center">Alumno de duoc estudiante de ing. Iformatica</h3>
+<h3 align="center">Alumno de duoc estudiante de ing. INformatica</h3>
 
 - 📄 Know about my experiences [none](none)
 
