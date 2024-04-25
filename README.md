@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu-G04adLcjtS0lLmDMRghLMhbmtjEARqkpIjviMEm7wFRLprjMNpS2w-tbB_VwpeOWsQ&usqp=CAU"/>
 
 <h3 align="center"></h1>
 <h3 align="center">Alumno de duoc estudiante de ing. INformatica</h3>
