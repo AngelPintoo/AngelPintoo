@@ -5,7 +5,7 @@
 
 
 
-<h3 align="center"></h3>
+<h3 align="center">Angel Pinto</h3>
 <h3 align="center">Alumno de duoc estudiante de ing. INformatica</h3>
 <div align="center"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
